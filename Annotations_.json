@@ -1,0 +1,29 @@
+{
+    "info": {
+        "contributor": "gaussian dl team",
+        "date_created": "2018-07-28",
+        "description": "convert  coco2017 to gaussian dataset merging the thing & stuff tasks",
+        "device": "coco images",
+        "version": "test_api_v1",
+        "year": 2018
+    },
+    "log_info": [
+        {
+            "end time": "",
+            "id": 0,
+            "location": "",
+            "starting time": "",
+            "type": "",
+            "vehicle_id": 0
+        }
+    ],
+    "vehicle_info": [
+        {
+            "hardware_version": "",
+            "id": 0,
+            "sensor_frequency": 0,
+            "sensor_list": [],
+            "software_version": ""
+        }
+    ]
+}
