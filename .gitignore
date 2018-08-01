@@ -18,3 +18,5 @@ PythonAPI/pycocotools/mask.pyc
 
 PythonAPI/.ipynb_checkpoints/
 PythonAPI/pycocotools/__pycache__/
+coco2gaussian/__pycache__/
+
